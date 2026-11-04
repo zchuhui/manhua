@@ -89,7 +89,7 @@ function renderHome() {
   $app.innerHTML = `
     ${mast()}
     <section class="hero wrap">
-      <p>本地研究用阅读页。左侧是正在写的《问道无门》，右侧是结构底本《万古至尊》。进度记在这台浏览器里。</p>
+      <p>正在写的《问道无门》。进度记在这台浏览器里。</p>
     </section>
     <section class="grid wrap"></section>
   `;
