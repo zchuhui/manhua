@@ -1,0 +1,202 @@
+[
+ {
+  "seg": "01",
+  "from": 1,
+  "to": 100,
+  "chapters": 100,
+  "chars": 335030,
+  "file": "work/segments/seg_01.txt"
+ },
+ {
+  "seg": "02",
+  "from": 101,
+  "to": 200,
+  "chapters": 100,
+  "chars": 333989,
+  "file": "work/segments/seg_02.txt"
+ },
+ {
+  "seg": "03",
+  "from": 201,
+  "to": 300,
+  "chapters": 100,
+  "chars": 337216,
+  "file": "work/segments/seg_03.txt"
+ },
+ {
+  "seg": "04",
+  "from": 301,
+  "to": 400,
+  "chapters": 100,
+  "chars": 337334,
+  "file": "work/segments/seg_04.txt"
+ },
+ {
+  "seg": "05",
+  "from": 401,
+  "to": 500,
+  "chapters": 100,
+  "chars": 334163,
+  "file": "work/segments/seg_05.txt"
+ },
+ {
+  "seg": "06",
+  "from": 501,
+  "to": 600,
+  "chapters": 100,
+  "chars": 333165,
+  "file": "work/segments/seg_06.txt"
+ },
+ {
+  "seg": "07",
+  "from": 601,
+  "to": 700,
+  "chapters": 100,
+  "chars": 334213,
+  "file": "work/segments/seg_07.txt"
+ },
+ {
+  "seg": "08",
+  "from": 701,
+  "to": 800,
+  "chapters": 100,
+  "chars": 333614,
+  "file": "work/segments/seg_08.txt"
+ },
+ {
+  "seg": "09",
+  "from": 801,
+  "to": 900,
+  "chapters": 100,
+  "chars": 335990,
+  "file": "work/segments/seg_09.txt"
+ },
+ {
+  "seg": "10",
+  "from": 901,
+  "to": 1000,
+  "chapters": 100,
+  "chars": 336439,
+  "file": "work/segments/seg_10.txt"
+ },
+ {
+  "seg": "11",
+  "from": 1001,
+  "to": 1100,
+  "chapters": 100,
+  "chars": 338131,
+  "file": "work/segments/seg_11.txt"
+ },
+ {
+  "seg": "12",
+  "from": 1101,
+  "to": 1200,
+  "chapters": 100,
+  "chars": 341282,
+  "file": "work/segments/seg_12.txt"
+ },
+ {
+  "seg": "13",
+  "from": 1201,
+  "to": 1300,
+  "chapters": 100,
+  "chars": 339460,
+  "file": "work/segments/seg_13.txt"
+ },
+ {
+  "seg": "14",
+  "from": 1301,
+  "to": 1400,
+  "chapters": 100,
+  "chars": 340466,
+  "file": "work/segments/seg_14.txt"
+ },
+ {
+  "seg": "15",
+  "from": 1401,
+  "to": 1500,
+  "chapters": 100,
+  "chars": 340227,
+  "file": "work/segments/seg_15.txt"
+ },
+ {
+  "seg": "16",
+  "from": 1501,
+  "to": 1600,
+  "chapters": 100,
+  "chars": 339739,
+  "file": "work/segments/seg_16.txt"
+ },
+ {
+  "seg": "17",
+  "from": 1601,
+  "to": 1700,
+  "chapters": 100,
+  "chars": 339999,
+  "file": "work/segments/seg_17.txt"
+ },
+ {
+  "seg": "18",
+  "from": 1701,
+  "to": 1800,
+  "chapters": 100,
+  "chars": 340218,
+  "file": "work/segments/seg_18.txt"
+ },
+ {
+  "seg": "19",
+  "from": 1801,
+  "to": 1900,
+  "chapters": 100,
+  "chars": 339640,
+  "file": "work/segments/seg_19.txt"
+ },
+ {
+  "seg": "20",
+  "from": 1901,
+  "to": 2000,
+  "chapters": 100,
+  "chars": 339212,
+  "file": "work/segments/seg_20.txt"
+ },
+ {
+  "seg": "21",
+  "from": 2001,
+  "to": 2100,
+  "chapters": 100,
+  "chars": 339976,
+  "file": "work/segments/seg_21.txt"
+ },
+ {
+  "seg": "22",
+  "from": 2101,
+  "to": 2200,
+  "chapters": 100,
+  "chars": 340854,
+  "file": "work/segments/seg_22.txt"
+ },
+ {
+  "seg": "23",
+  "from": 2201,
+  "to": 2300,
+  "chapters": 100,
+  "chars": 337659,
+  "file": "work/segments/seg_23.txt"
+ },
+ {
+  "seg": "24",
+  "from": 2301,
+  "to": 2400,
+  "chapters": 100,
+  "chars": 339417,
+  "file": "work/segments/seg_24.txt"
+ },
+ {
+  "seg": "25",
+  "from": 2401,
+  "to": 2406,
+  "chapters": 6,
+  "chars": 20413,
+  "file": "work/segments/seg_25.txt"
+ }
+]
