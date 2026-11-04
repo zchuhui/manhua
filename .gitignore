@@ -1,3 +1,10 @@
 docs/data/
 .DS_Store
 Thumbs.db
+
+# Local research text. Not part of the public repository.
+work/novel_utf8.txt
+work/segments/seg_*.txt
+work/skim/
+原著.txt
+project/原著.txt
