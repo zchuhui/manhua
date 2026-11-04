@@ -54,7 +54,7 @@ function packChapters(bookId, chapters, size = 100) {
 }
 
 function buildWendaomen() {
-  const dir = path.join(root, "drafts", "问道无门");
+  const dir = path.join(root, "drafts", "问道无门", "正文");
   const files = fs.existsSync(dir)
     ? fs.readdirSync(dir).filter((f) => f.endsWith(".md")).sort()
     : [];
